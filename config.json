@@ -1,0 +1,14 @@
+{
+   "data": [
+      {
+        "target":"/(o(.*?))gita/",
+      "color":"red",
+      "paint":"characters"
+    },
+     {
+       "target":"/matsu/",
+      "color":"cyan",
+      "paint":"characters"
+    }
+  ]
+}
